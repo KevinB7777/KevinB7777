@@ -1,5 +1,5 @@
 - Hi, I’m @KevinB7777
-- I’m interested in Machine Learning and Artificial Intelligence in gernal
+- I’m interested in Machine Learning and backend systems
 - I’m currently a third-year undergrad in Computer Science at the University of Texas at Austin
 
 <!---
